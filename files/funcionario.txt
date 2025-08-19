@@ -1,0 +1,5 @@
+Nome: arthur
+Nome: arthur
+Salario: R$10.00Líquido: R$52.20Nome: arther
+Salario: R$5000.00
+Líquido: R$6860.00
